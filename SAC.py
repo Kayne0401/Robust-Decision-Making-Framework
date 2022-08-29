@@ -1,6 +1,3 @@
-# SAC model: Train_20220625-195603_9292/SACAgent
-# Testing: seed=3 Test_20220626-123003_23784 101
-
 import sys
 sys.path.insert(1,'D:\\Vscode\\SEDDPG\\Highway-RL0301\\highway-rl\\stable-baselines3-master')
 sys.path.insert(1,'D:\\VsCode\\SEDDPG\\Highway-RL0301\\highway-rl\\highway-env\\highway-env-master')
