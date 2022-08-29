@@ -1,11 +1,3 @@
-# DQN model Train_20220624-161006_173832 
-# Table V Test_20220625-152202_187276
-# 5Hz Train_20220625-214413_25628 不行
-# 40w步的训练模型，探索部分0.4 模型 Train_20220626-103846_14404 测试 不好
-
-#_____________________________________
-# DQN model Train_20220701-220619_56032
-# Table V (Normal test) Test_20220704-091850_78248 SR：113/120
 import sys
 sys.path.insert(1,'D:\\Vscode\\SEDDPG\\Highway-RL0301\\highway-rl\\stable-baselines3-master')
 sys.path.insert(1,'D:\\VsCode\\SEDDPG\\Highway-RL0301\\highway-rl\\highway-env\\highway-env-master')
