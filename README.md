@@ -2,7 +2,8 @@
 This repository contains the code used for the experiments in our paper of the above name, along with some experimental results (coming soon!)
 
 
-Expriment-Traffic Density (Density increase 50%)
+Expriment-----------------------------Traffic Density(Density increase 50%)---------------------------
+
 SEDDPG:
 
 episode 0:
@@ -37,7 +38,7 @@ https://user-images.githubusercontent.com/112403512/212543464-6b678462-b358-4bae
 episode 4:
 https://user-images.githubusercontent.com/112403512/212543470-8add7a84-bf0b-4fac-85ac-993bb3f0a62b.mp4
 
-Expriment-Two Specific Cases
+Expriment------------------------------Two Specific Cases---------------------------------------------
 
 Object falling:
 
