@@ -1,5 +1,5 @@
 # Towards Robust Decision-Making for Autonomous driving On Highway
-This repository contains the code used for the experiments in our paper of the above name, along with experimental results (code coming soon!)
+This repository contains the code used for the experiments in our paper of the above name, along with experimental results (code will be released soon!)
 
 Expriment-----------------------------Sensor Noise (Gaussian noise 20%)--------------------------------
 
